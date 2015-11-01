@@ -1,1 +1,5 @@
-
+class demo{
+ public static void main(string[] args){
+  println("Hello java!");
+ }
+}
